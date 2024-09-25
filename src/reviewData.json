@@ -1,0 +1,32 @@
+[
+    {
+        "total_ratings": 234,
+        "average_ratings": 4.3,
+        "value": 3.7,
+        "condition": 4.7,
+        "difficulty": 4.2,
+        "rating_data": [
+            {
+                "name": "Harvey Specter",
+                "date": "Jan 12",
+                "rating": "4.3",
+                "profile_url": "",
+                "description": "Greenview Golf Club is a premier 18-hole golf course designed to offer a challenging and enjoyable experience for golfers of all skill levels. Nestled in the rolling hills of Golf City, the course features stunning views, well-maintained greens, and a variety of natural hazards."
+            },
+            {
+                "name": "Harvey Specter",
+                "date": "Jan 12",
+                "rating": "4.3",
+                "profile_url": "",
+                "description": "Greenview Golf Club is a premier 18-hole golf course designed to offer a challenging and enjoyable experience for golfers of all skill levels. Nestled in the rolling hills of Golf City, the course features stunning views, well-maintained greens, and a variety of natural hazards."
+            },
+            {
+                "name": "Harvey Specter",
+                "date": "Jan 12",
+                "rating": "4.3",
+                "profile_url": "",
+                "description": "Greenview Golf Club is a premier 18-hole golf course designed to offer a challenging and enjoyable experience for golfers of all skill levels. Nestled in the rolling hills of Golf City, the course features stunning views, well-maintained greens, and a variety of natural hazards."
+            }
+        ]
+    }
+]
